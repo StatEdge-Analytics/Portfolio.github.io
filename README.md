@@ -1,12 +1,12 @@
 ## Hi there, I'm Datche Dedan.👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  Here Lies the magic -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turns+Data+into+Actionable+Insights;Statistician+%7C+Data+Storyteller" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- 🔗 links to social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/dedan-d-a366a8369"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:dedand418@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
@@ -17,7 +17,7 @@ Data professional skilled in transforming complex datasets into actionable insig
 
 When I'm not working with data, I enjoy reading, playing football. 
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+<!-- Takes you to my website -->
 ### [🏆 Check Out My Full Portfolio Website](http://127.0.0.1:5500/index.html)
       
 ## 🔭 What I'm Currently Working On 
